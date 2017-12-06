@@ -13,4 +13,4 @@ Run build.py and wait for images to be collected and concatenated. Result will b
 
 ### Examples
 Tuesday Evening![Tuesday Evening](https://github.com/Harrison-Mitchell/Sydney-Traffic/blob/master/examples/TuesdayEveningThumb.jpg "Tuesday Evening")
-Monday Morning![Monday Morning](https://github.com/Harrison-Mitchell/Sydney-Traffic/blob/master/examples/MondayMorningThumb.jpg "Monday Morning")
+Friday Morning![Friday Morning](https://github.com/Harrison-Mitchell/Sydney-Traffic/blob/master/examples/FridayMorningThumb.jpg "Friday Morning")
