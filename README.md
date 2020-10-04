@@ -1,5 +1,5 @@
 # Sydney Traffic
-Displays the state of Sydney's traffic with a grid of public road CCTV cameras.
+Displays the state of Sydney's traffic with a grid of [public road CCTV cameras](https://www.livetraffic.com/traffic-cameras).
 
 ### Dependencies
 * Python >= 3.5
